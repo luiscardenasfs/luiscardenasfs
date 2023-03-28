@@ -4,19 +4,19 @@ I'm Luis Cardenas
 
 
 - 🔭 I’m currently working on Ecomerce about wines🍷
-- 🌱 I’m currently learning MUI,TailWind.
+- 🌱 I’m currently learning MUI,TailWind,Project Managment Certification by Google.
 - 👯 I’m looking to collaborate on Front-End Projects, Project Management or UX/UI.
-- 💬 Ask me about Wines,Tech, Front-End,Food.
+- 💬 Ask me about Wines,Tech, Front-End,Food,AGILE.
 - 📫 How to reach me: luiscardenasfs@gmail.com
 - 😄 Pronouns: ... HE/Him
 - ⚡ Fun fact: ... I'am a former Chef / Restauranteur.
 -->
 
-- Full-Stack developer; | HTML5 | CSS | JavaScript (TS)| React | Redux |SASS| jQuery| MongoDB
+- Scrum Master and Technical PM with some tech skills  | HTML5 | CSS | JavaScript (TS)| React |
 
 About,
 
-Experience as a Front End Web Developer. I strive to deliver a responsive user experience across different devices for every project. My skills include  HTML, CSS and JavaScript. I used frameworks such as jQuery, Bootstrap.
+My approach to project management is rooted in collaboration and communication. I believe that success is achieved through clear communication, strategic planning, and a commitment to excellence. Throughout my career, I have honed my skills in project planning, risk management, and stakeholder engagement to ensure that every project I lead is delivered on time, within budget, and to the highest quality standards.
 
 Now working on  (Wines Supply) E-commerce;
 https://voluble-hummingbird-3fb9b1.netlify.app/
