@@ -3,7 +3,7 @@ I'm Luis Cardenas
 
 
 
-- 🔭 I’m currently working on Ecomerce about wines🍷
+- 🔭 I’m currently working on E-comerce about wines🍷
 - 🌱 I’m currently learning MUI,TailWind,Project Managment Certification by Google.
 - 👯 I’m looking to collaborate on Front-End Projects, Project Management or UX/UI.
 - 💬 Ask me about Wines,Tech, Front-End,Food,AGILE.
